@@ -20,10 +20,10 @@
 3. Connect cables to the JetKVM device, and install JetKVM into rack.
 	* Be careful when screwing the printed mount into your server/network rack, and take care not to tighten the rack screws too tight!
 
-![Image](./images/full3dprintedassembled.png)
+![Image](../images/full3dprintedassembled.png)
 
-![Image](./images/full3dprinted1rightshort.png)
-![Image](./images/full3dprinted2rightshort.png)
+![Image](../images/full3dprinted1rightshort.png)
+![Image](../images/full3dprinted2rightshort.png)
 
 ## Full-Width Model Info and Assembly
 * You will need one "Left" and one "Right" option for a full-width 1U mount.
@@ -41,6 +41,6 @@
 5. Connect cables to the JetKVM device, and install JetKVM into rack.
 	* Be careful when screwing the printed mount into your server/network rack, and take care not to tighten the rack screws too tight!
 
-![Image](./images/full3dprintedfullwidthheatset.png)
-![Image](./images/full3dprintedbraceinstalled.png)
-![Image](./images/full3dprintedfullwidthassembled.png)
+![Image](../images/full3dprintedfullwidthheatset.png)
+![Image](../images/full3dprintedbraceinstalled.png)
+![Image](../images/full3dprintedfullwidthassembled.png)
