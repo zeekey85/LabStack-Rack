@@ -22,7 +22,6 @@
 	* Another 100-screw pack.  As above, plenty of spares, and feel free to find alternate options.
 
 ![Image](./images/full3dprinted2shortright.png)
-
 ![Image](./images/full3dprinted.png)
 
 ## Hybrid Aluminum / 3D-Printed Notes
@@ -38,4 +37,5 @@
 3. **2x M3x8 BHCS Machine Screws (per module - up to 12x total with 6 total modules) - [iexcell - Amazon](https://www.amazon.com/dp/B08H2HTTRT)**
 	* Another 100-screw pack.  As above, plenty of spares, and feel free to find alternate options.
 
+![Image](./images/hybridshort2.png)
 ![Image](./images/hybridaluminum.png)
