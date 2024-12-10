@@ -10,8 +10,8 @@
 
 ## Fully 3D-Printed Notes
 * Available in Short 1-2 module and full-width 1-4 module configurations (mix and match 1-2 module left and right halves).
-* Fully printable on common 3D printer bed sizes down to 255x255mm in size.
-* Able to be printed in two colors for a cool standout effect.
+* Fully printable on common 3D printer bed sizes down to 255x255mm in size (for full-width configuration; Short models can be printed on even smaller printers).
+* Able to be printed in two colors for a cool standout effect (full-width only).
 
 ## Required Hardware - Fully 3D-Printed
 1. **2x M2x16 SHCS Machine Screws (per module - up to 8x total with 4 total modules) - [iexcell - Amazon](https://www.amazon.com/gp/product/B094NSV83Q)**
