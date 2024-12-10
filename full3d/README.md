@@ -22,8 +22,8 @@
 
 ![Image](../images/full3dprintedassembled.png)
 
-![Image](../images/full3dprinted1rightshort.png)
-![Image](../images/full3dprinted2rightshort.png)
+![Image](../images/full3dprinted1shortright.png)
+![Image](../images/full3dprinted2shortright.png)
 
 ## Full-Width Model Info and Assembly
 * You will need one "Left" and one "Right" option for a full-width 1U mount.
