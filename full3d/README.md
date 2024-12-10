@@ -22,9 +22,6 @@
 
 ![Image](../images/full3dprintedassembled.png)
 
-![Image](../images/full3dprinted1shortright.png)
-![Image](../images/full3dprinted2shortright.png)
-
 ## Full-Width Model Info and Assembly
 * You will need one "Left" and one "Right" option for a full-width 1U mount.
 	* Pick one of the 3 module options for each side: 1x Module, 2x Module, Blank
@@ -37,8 +34,9 @@
 1. Install 3x heatset inserts into each of the Left and Right halves, 6x in total, with a soldering iron (and heatset insert tip, if available).
 2. Install the Brace over the two halves of the 1U rackmount.
 3. Insert 6x M3x10 SHCS machine screws into the base and tighten down.  NOTE: The screws will start to feel tight before bottoming; continue to screw in until tight!  This acts as a lock washer inside the printed part.
-4. Install 2x M2x16mm SHCS machine screws (per module) thru the printed part and into the JetKVM module.  Snug the screws using an Allen Key of the correct size.
-5. Connect cables to the JetKVM device, and install JetKVM into rack.
+4. Unscrew the 2x Phillips head screws from the top of the JetKVM module, and slide the module into the 3D-printed housing until the screw holes in the printed part align with the holes in the JetKVM device.
+5. Install 2x M2x16mm SHCS machine screws (per module) thru the printed part and into the JetKVM module.  Snug the screws using an Allen Key of the correct size.
+6. Connect cables to the JetKVM device, and install JetKVM into rack.
 	* Be careful when screwing the printed mount into your server/network rack, and take care not to tighten the rack screws too tight!
 
 ![Image](../images/full3dprintedfullwidthheatset.png)
