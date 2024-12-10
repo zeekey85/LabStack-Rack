@@ -26,7 +26,7 @@
 ## 3D-Printed Part Info and Assembly
 * Print as many of the "1x Module Hybrid" file in the STL folder as needed for the total number of JetKVM modules in use (1-6 total).
 ### Assembly
-1. Install 2x heatset inserts into each of the module mount, up to 12x in total, with a soldering iron (and heatset insert tip, if available).
+1. Install 2x heatset inserts into each of the module mounts, up to 12x in total, with a soldering iron (and heatset insert tip, if available).
 2. Unscrew the 2x Phillips head screws from the top of the JetKVM module, and slide the module into the 3D-printed housing until the screw holes in the printed part align with the holes in the JetKVM device.
 3. Install 2x M2x16mm SHCS machine screws (per module) thru the printed part and into the JetKVM module.  Snug the screws using an Allen Key of the correct size.
 4. Slide the JetKVM assembly into the laser-cut aluminum front panel and line up the holes in the panel with the heatsets in the printed part.
@@ -36,4 +36,4 @@
 ![Image](../images/hybridparts.png)
 ![Image](../images/hybridpartialassembly.png)
 ![Image](../images/hybridpartialassembly2.png)
-![Image](../images/hybridpassembled.png)
+![Image](../images/hybridassembled.png)
