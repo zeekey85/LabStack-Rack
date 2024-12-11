@@ -8,8 +8,8 @@
 ### <center>Fully 3D-Printed Configuration</center>
 ### <center>***********************************************************************************************</center>
 
-![Image](./images/full3dprinted1shortright.png)
-![Image](./images/full3dprinted.png)
+![Image](./images/full3dprinted1shortrightsmall.png)
+![Image](./images/full3dprintedsmall.png)
 
 ## Fully 3D-Printed Notes
 * Files can be found in the "full3d" folder.
@@ -75,8 +75,8 @@
 ### <center>Hybrid Aluminum / 3D-Printed Configuration</center>
 ### <center>***********************************************************************************************</center>
 
-![Image](./images/hybridshort1.png)
-![Image](./images/hybrid1.png)
+![Image](./images/hybridshort1small.png)
+![Image](./images/hybrid1small.png)
 
 ## Notes
 * Files can be found in the “hybrid” folder.
