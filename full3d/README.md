@@ -3,7 +3,7 @@
 ## Slicer Configuration and Info
 * All models are saved in the correct orientation to the build plate.  You can rotate the part, but do not change the side that touches the bed!
 * NONE of the models require supports.  Turn supports off in your slicer for these models.
-* Recommanded Slicing Settings:
+* Recommended Slicing Settings:
 	* Layer Height: 0.2mm
 	* Perimeters: 4
 	* Top/Bottom Layers: 5
