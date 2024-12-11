@@ -1,6 +1,5 @@
 # JetKVM Rackmount Solutions
-
-# (Also available on [Printables.com](https://www.printables.com/model/1105303-jetkvm-1u-rackmount))
+## (Also available on [Printables.com](https://www.printables.com/model/1105303-jetkvm-1u-rackmount))
 
 ### Hey all!  If you're here, you probably want a cool mounting solution for your JetKVM into a 1U rackmount form factor.  You're in luck!
 
