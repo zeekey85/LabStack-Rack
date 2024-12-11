@@ -4,9 +4,9 @@
 
 **Below I've outlined options for both fully 3D-printed solutions, as well as hybrid solutions utilizing laser-cut aluminum panels paired with 3D-printed parts, and the recommendations on accompanying hardware for each.  All links are US-based, and non-affiliate links.**
 
-### <center>**************************************************************************************************</center>
+### <center>***********************************************************************************************</center>
 ### <center>Fully 3D-Printed Configuration</center>
-### <center>**************************************************************************************************</center>
+### <center>***********************************************************************************************</center>
 
 ![Image](./images/full3dprinted1shortright.png)
 ![Image](./images/full3dprinted.png)
@@ -71,9 +71,9 @@
 
 
 
-### <center>**************************************************************************************************</center>
+### <center>***********************************************************************************************</center>
 ### <center>Hybrid Aluminum / 3D-Printed Configuration</center>
-### <center>**************************************************************************************************</center>
+### <center>***********************************************************************************************</center>
 
 ![Image](./images/hybridshort1.png)
 ![Image](./images/hybrid1.png)
