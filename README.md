@@ -16,7 +16,7 @@
 ## Required Hardware - Fully 3D-Printed
 1. **2x M2x16 SHCS Machine Screws (per module - up to 8x total with 4 total modules) - [iexcell - Amazon](https://www.amazon.com/gp/product/B094NSV83Q)**
 	* This is a 100-screw pack.  You will have plenty of spares.  Feel free to find a combination kit that includes M2x16 SHCS screws if you don't want 100 of these.
-2. **6x M3x4x5 Brass Hetset Inserts (ONLY REQUIRED for full-width configuration) - [PEUTIER - Amazon](https://www.amazon.com/dp/B0CXXS3LHD/)**
+2. **6x M3x4x5 Brass Heatset Inserts (ONLY REQUIRED for full-width configuration) - [PEUTIER - Amazon](https://www.amazon.com/dp/B0CXXS3LHD/)**
 	* This kit includes the heatset tip for your soldering iron, and fits most of the older ceramic-style irons. 120 total pieces (they go fast if you print a lot of functional parts).
 3. **6x M3x12 SHCS Machine Screws (ONLY REQUIRED for full-width configuration) - [iexcell - Amazon](https://www.amazon.com/dp/B08R3GVJVC)**
 	* Another 100-screw pack.  As above, plenty of spares, and feel free to find alternate options.
