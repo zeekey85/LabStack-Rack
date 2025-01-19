@@ -1,4 +1,14 @@
+# Formerly JetKVM Rackmount Solutions
+
+Hey all!  This repo is being updated and integrated to coordinate with the LabStack modular system.  This repo will include standalone 1U and 2U rack options for both 10" (Mini) and standard 19" (19) racks.  These rackmount designs can be used standalone, or in conjunction with a LabStack modular system!
+
+I will update the repo as I work on the integration, and all of the JetKVM designs will be staying in this repo as LabStack Rack designs.  If you have any questions, please open an issue!
+
+
+-Jared
+
 # JetKVM Rackmount Solutions
+
 ## (Also available on [Printables.com](https://www.printables.com/model/1105303-jetkvm-1u-rackmount))
 
 ### Hey all!  If you're here, you probably want a cool mounting solution for your JetKVM into a 1U rackmount form factor.  You're in luck!
