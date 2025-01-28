@@ -1,3 +1,7 @@
+# Quick update with the plan - 
+Planning to purchase standard 10-32 rails and add 3D print STLs for a DIY mini 10" rack.
+
+
 # Formerly JetKVM Rackmount Solutions
 
 Hey all!  This repo is being updated and integrated to coordinate with the LabStack modular system.  This repo will include standalone 1U and 2U rack options for both 10" (Mini) and standard 19" (19) racks.  These rackmount designs can be used standalone, or in conjunction with a LabStack modular system!
