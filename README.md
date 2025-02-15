@@ -1,3 +1,7 @@
+#Update 15Feb2025
+Adding STLs for a side panel brace, a 1U front panel blank, a 0.5U blank, a side panel fan holder for 40mm fans (actually I need to update this one, the bolt hole pattern is a little off), a netgear POE switch (untested), and a 1U mount for a 4 outlet 120V power strip.
+
+
 # Quick update with the plan - 
 Planning to purchase standard 10-32 rails and add 3D print STLs for a DIY mini 10" rack.
 
